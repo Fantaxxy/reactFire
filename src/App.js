@@ -5,6 +5,14 @@ import Dashboard from './components/dashboard/Dashboard'
 import ProjectDetails from './components/projects/ProjectDetails'
 import SignIn from './components/auth/SignIn'
 
+handleChange = (e) => {
+  console.log(e)
+}
+
+handleChange = (e) => {
+  console.log(e)
+}
+
 function App() {
   return (
     <BrowserRouter>
